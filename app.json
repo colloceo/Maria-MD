@@ -6,19 +6,19 @@
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
       "env": {
        "OWNER_NAME": {
-      "description": "Put Owner Name Here"
+      "description": "Collins"
     },
         "OWNER_NUMBER": {
-      "description": "Put your number here"
+      "description": "+254768581254"
     },
          "BOTNAME": {
-      "description": "Name of your bot. Ex: - Maria-Bot"
+      "description": "Ceo-Bot"
     },
      "PREFIX": {
       "description": "set your bot prefix here ex:- '!' "
      },
     "AUTHOR": {
-      "description": "set your bot author name here"
+      "description": "Collins"
     },
     "STICKER": {
       "description": "set your bot sticker package name ex:- Ayush"
